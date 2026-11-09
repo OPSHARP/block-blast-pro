@@ -59,10 +59,10 @@ void main() {
       await adService.initialize();
     });
 
-    test('exposes live production AdMob ad unit IDs for Android and iOS fallbacks', () {
-      expect(AdService.androidBannerId, 'ca-app-pub-6089131009548737/6672673336');
-      expect(AdService.androidInterstitialId, 'ca-app-pub-6089131009548737/4046509998');
-      expect(AdService.androidRewardedId, 'ca-app-pub-6089131009548737/2733428322');
+    test('exposes safe default test AdMob ad unit IDs for Android and iOS fallbacks', () {
+      expect(AdService.androidBannerId, AdService.testAndroidBannerId);
+      expect(AdService.androidInterstitialId, AdService.testAndroidInterstitialId);
+      expect(AdService.androidRewardedId, AdService.testAndroidRewardedId);
 
       expect(AdService.iosBannerId, 'ca-app-pub-3940256099942544/2934735716');
       expect(AdService.iosInterstitialId, 'ca-app-pub-3940256099942544/4411468910');
