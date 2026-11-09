@@ -1,11 +1,15 @@
 # Block Blast Pro 🎮
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Available_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.block.blastpro)
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-Proprietary-blue)](terms.md)
 
 **Block Blast Pro** is a next-generation casual spatial block-puzzle mobile game engineered with Flutter and Dart. Designed with a custom Pixar-inspired 3D tactile aesthetic, dynamic grid-shifting mechanics, multi-tier combo algorithms, and an ASMR-tuned haptic audio engine.
+
+📲 **Play Store Live App:** [https://play.google.com/store/apps/details?id=com.block.blastpro](https://play.google.com/store/apps/details?id=com.block.blastpro)
 
 ---
 
