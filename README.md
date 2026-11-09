@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.block.blastpro" target="_blank">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
-</a>
+  <img src="android/app/playstore-icon.png" width="110" height="110" alt="Block Blast Pro Logo" style="border-radius: 24px;" />
+
+  <br/><br/>
+
+  <a href="https://play.google.com/store/apps/details?id=com.block.blastpro" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
+  </a>
 
 <br/>
 
