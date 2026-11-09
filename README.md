@@ -1,15 +1,47 @@
 # Block Blast Pro 🎮
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Available_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.block.blastpro)
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.block.blastpro" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
+</a>
+
+<br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)](https://flutter.dev)
-[![License](https://img.shields.io/badge/License-Proprietary-blue)](terms.md)
+[![Google Play](https://img.shields.io/badge/Google_Play-Live_Store-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.block.blastpro)
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="screenshots/feature_graphic.png" alt="Block Blast Pro Feature Graphic" width="100%" />
+</p>
 
 **Block Blast Pro** is a next-generation casual spatial block-puzzle mobile game engineered with Flutter and Dart. Designed with a custom Pixar-inspired 3D tactile aesthetic, dynamic grid-shifting mechanics, multi-tier combo algorithms, and an ASMR-tuned haptic audio engine.
 
-📲 **Play Store Live App:** [https://play.google.com/store/apps/details?id=com.block.blastpro](https://play.google.com/store/apps/details?id=com.block.blastpro)
+---
+
+## 📱 Google Play Store Screenshots
+
+<div align="center">
+
+| Classic & Combos | Dynamic Grid Shifts | Heavy Physics | Daily Challenges | Theme Gallery & Skins |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="screenshots/screenshot_1.png" width="170" /> | <img src="screenshots/screenshot_2.png" width="170" /> | <img src="screenshots/screenshot_3.png" width="170" /> | <img src="screenshots/screenshot_4.png" width="170" /> | <img src="screenshots/screenshot_5.png" width="170" /> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.block.blastpro" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on Google Play" height="70">
+  </a>
+</div>
 
 ---
 
@@ -120,13 +152,11 @@ lib/
 ## 🔒 Security & Privacy Notice
 
 - Sensitive production signing keys and local machine properties are strictly omitted from this repository in accordance with [.gitignore](.gitignore).
-- For complete terms and privacy disclosures:
-  - [Terms of Service](terms.md)
-  - [Privacy Policy](privacy.md)
+- Privacy disclosures and Terms of Service are integrated directly within the application's Settings menu.
 
 ---
 
 ## 📄 License & Attribution
 
 Copyright (c) 2026 SHARP OP (Proprietor: Nitesh Kumar). All rights reserved.
-Developed for Android and iOS mobile platforms.
+Distributed via Google Play Store for Android devices.
