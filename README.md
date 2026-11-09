@@ -94,7 +94,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<YOUR_ORGANIZATION>/block-blast-pro.git
+   git clone https://github.com/OPSHARP/block-blast-pro.git
    cd block-blast-pro
    ```
 
